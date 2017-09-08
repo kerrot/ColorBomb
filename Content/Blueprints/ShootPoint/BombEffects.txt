@@ -1,0 +1,20 @@
+Enemy Attacked function
+      Can Move
+
+Bomb　damaage value
+
+
+Blue       一回　　
+
+Green      一回　　範囲内　CannotMove  何secend
+	
+
+skyblue   存在　何秒　　範囲内　何秒一回　　ダメージ　吸引　　begin 一回
+
+紫　      存在　何秒　範囲内　何秒一回　　ダメージ
+
+yellow    一回　　範囲内  stun 何秒　teleport point
+
+白　      存在　何秒　範囲内　何秒一回　　ダメージ
+
+          範囲内 collider scale change
